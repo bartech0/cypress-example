@@ -13,7 +13,6 @@ describe('Create new post', function(){
             }
         }).as('aliasPlaceholder')
 
-        // cy.visit('/editor')
         // cy.get('[placeholder=Article Title]').type('Bart Valid Title')
     })  
 })
