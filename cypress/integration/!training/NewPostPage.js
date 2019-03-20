@@ -12,7 +12,6 @@ describe('Create new post', function(){
                         }
             }
         }).as('aliasPlaceholder')
-
         // cy.get('[placeholder=Article Title]').type('Bart Valid Title')
     })  
 })
