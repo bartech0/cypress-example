@@ -1,6 +1,6 @@
 describe('Register new user', function(){
     it.only('Correct one', function(){
-        cy.visit('/register')
+        cy.visit('http://test-backend.koncikowski.pl/register')
         let randomName = 'validname' + Math.floor(Math.random(1000))
         let randomEmail = randomName + '@email.com'
         cy.get('[placeholder=Username]').type(randomName)
