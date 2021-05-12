@@ -1,2 +1,2 @@
-# CypressExample
+# cypress-example
 ...
