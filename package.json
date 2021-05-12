@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^3.2.0"
+    "cypress": "^7.3.0"
   },
   "dependencies": {
-    "lorem-ipsum": "^2.0.0"
+    "lorem-ipsum": "^2.0.3"
   }
 }
